@@ -1,4 +1,4 @@
-# estados-municipios-ajax-fetch
+# Consultas dinámicas con Fetch
 Hola que tal a todos
 
 Este ejercicio se trabajo con las tecnologías: Php, MySQL y Javascript.
